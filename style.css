@@ -1,9 +1,10 @@
-h1 {
-    background-color:blueviolet;
+.pclass{
+    background-color: blue;
 }
-.h1 {
-    background-color: aquamarine;
-}
-table,th,td {
-    
-}
+
+ body {
+    background-image: url("OIP.webp");
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+ }
