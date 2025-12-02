@@ -7,4 +7,13 @@
     background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
+
  }
+.container {
+display: grid;
+grid-template-columns: auto auto auto;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr  2fr 1fr;
+}
